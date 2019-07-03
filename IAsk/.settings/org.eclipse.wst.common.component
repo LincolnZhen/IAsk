@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="IAsk">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <dependent-module archiveName="javassist-3.20.0-GA.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/javassist-3.20.0-GA/javassist-3.20.0-GA">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="ezmorph-1.0.2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/ezmorph-1.0.2/ezmorph-1.0.2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="c3p0-0.9.5.2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/c3p0-0.9.5.2/c3p0-0.9.5.2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jandex-2.0.3.Final.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/jandex-2.0.3.Final/jandex-2.0.3.Final">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="dom4j-1.6.1.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/dom4j-1.6.1/dom4j-1.6.1">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="classmate-1.3.0.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/classmate-1.3.0/classmate-1.3.0">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jboss-transaction-api_1.2_spec-1.0.1.Final.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/jboss-transaction-api_1.2_spec-1.0.1.Final/jboss-transaction-api_1.2_spec-1.0.1.Final">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jboss-logging-3.3.0.Final.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/jboss-logging-3.3.0.Final/jboss-logging-3.3.0.Final">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-logging.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-logging/commons-logging">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="hibernate-core-5.2.9.Final.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/hibernate-core-5.2.9.Final/hibernate-core-5.2.9.Final">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="antlr-2.7.7.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/antlr-2.7.7/antlr-2.7.7">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-collections-3.0.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-collections-3.0/commons-collections-3.0">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jstl-1.2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/jstl-1.2/jstl-1.2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="freemarker-2.3.23.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/freemarker-2.3.23/freemarker-2.3.23">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-io-2.4.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-io-2.4/commons-io-2.4">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-lang3-3.4.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-lang3-3.4/commons-lang3-3.4">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-logging-1.2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-logging-1.2/commons-logging-1.2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-lang-2.1.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-lang-2.1/commons-lang-2.1">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="javax.servlet-api-3.1.0.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/javax.servlet-api-3.1.0/javax.servlet-api-3.1.0">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="hibernate-commons-annotations-5.0.1.Final.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/hibernate-commons-annotations-5.0.1.Final/hibernate-commons-annotations-5.0.1.Final">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="asm-5.1.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/asm-5.1/asm-5.1">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="asm-commons-5.1.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/asm-commons-5.1/asm-commons-5.1">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-beanutils.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-beanutils/commons-beanutils">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="hibernate-jpa-2.1-api-1.0.0.Final.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/hibernate-jpa-2.1-api-1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="json-lib-1.1-jdk13.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/json-lib-1.1-jdk13/json-lib-1.1-jdk13">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="xom-1.0d10.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/xom-1.0d10/xom-1.0d10">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="asm-tree-5.1.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/asm-tree-5.1/asm-tree-5.1">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-fileupload-1.3.2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-fileupload-1.3.2/commons-fileupload-1.3.2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="mysql-connector-java-5.1.47-bin.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/mysql-connector-java-5.1.47-bin/mysql-connector-java-5.1.47-bin">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <property name="context-root" value="IAsk"/>
+        <property name="java-output-path" value="/IAsk/build/classes"/>
+    </wb-module>
+</project-modules>

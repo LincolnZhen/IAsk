@@ -1,0 +1,15 @@
+INDEX VERSION 1.130
+G:\Project2019\FinalProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3221200409.index
+\chapter01\src
+G:\Project2019\FinalProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1311413154.index
+\IAsk\src
+G:\Project2019\FinalProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2957980678.index
+\AIAsk\src
+G:\Project2019\FinalProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3158545812.index
+\IAsk\src
+G:\Project2019\FinalProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2843068259.index
+\AIAsk\src
+G:\Project2019\FinalProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1748968325.index
+\IAsk\src
+G:\Project2019\FinalProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\977482031.index
+\AIAsk\src
