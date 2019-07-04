@@ -1,15 +1,17 @@
 package entity;
 
 public class UserBean {
-	private int id = -1;
+	private String id;
 	private String account="";
 	private String pwd = "";
 	private int isOk = 1;
 	private int sex = -1;
 	private int age = -1;
 	private String school = "未知学校";
-
-	public void setId(int id){
+	private String nickname = "";
+	private String text = "";
+	
+	public void setId(String id){
 		this.id = id;
 	}
 	
@@ -37,7 +39,7 @@ public class UserBean {
 		this.school = school;
 	}
 	
-	public int getId(){
+	public String getId(){
 		return this.id;
 	}
 	
@@ -63,5 +65,21 @@ public class UserBean {
 	
 	public String getSchool(){
 		return this.school;
+	}
+
+	public String getNickname() {
+		return nickname;
+	}
+
+	public void setNickname(String nickname) {
+		this.nickname = nickname;
+	}
+
+	public String getText() {
+		return text;
+	}
+
+	public void setText(String text) {
+		this.text = text;
 	}
 }

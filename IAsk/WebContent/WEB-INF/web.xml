@@ -164,7 +164,7 @@
     <servlet-name>SchoolUpdateServlet</servlet-name>
     <url-pattern>/schoolUpdate</url-pattern>
   </servlet-mapping>
-    <servlet>
+  <servlet>
     <servlet-name>SexUpdateServlet</servlet-name>
     <servlet-class>servlet.user.information.SexUpdateServlet</servlet-class>
   </servlet>

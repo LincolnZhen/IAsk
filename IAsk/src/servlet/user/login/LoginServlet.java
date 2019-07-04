@@ -49,7 +49,7 @@ public class LoginServlet extends HttpServlet {
 		String responseText = "";
 		try {
 			if(res.next()){
-				int uid = res.getInt("usr_id");
+				String uid = res.getString("usr_id");
 				String isOk = res.getInt("is_ok") == 1 ? "is":"not";
 				HttpSession session = request.getSession();
 				session.setAttribute("uid", uid);

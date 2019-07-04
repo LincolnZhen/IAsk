@@ -32,10 +32,10 @@ public class ToPersonServlet extends HttpServlet {
 			throws ServletException, IOException {
 		
 		HttpSession session = request.getSession();
-		int u_id = -1;
+		String u_id = "";
 		if(session != null){
 			if(session.getAttribute("uid")!= null){
-				u_id =(int)session.getAttribute("uid");
+				u_id =(String) session.getAttribute("uid");
 			}
 		}
 	

@@ -47,7 +47,7 @@ public class Index extends HttpServlet {
 		if(session != null){
 
 			if(session.getAttribute("uid") != null){
-				int uid = (int) session.getAttribute("uid");
+				String uid = (String) session.getAttribute("uid");
 				System.out.println(uid);
 				UserDAO isok = new UserDAO();
 				ResultSet res = isok.selectIsOk(uid);

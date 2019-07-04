@@ -70,11 +70,100 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 <body style="background-image: url(images/back.jpg)">
 <script type="text/javascript">
  	$(document).ready(function(){
+ 		$("button.topp4").click(function hhh(){
+ 			alert("hhh");
+ 			var dom = $(this).parent().prev().children();
+ 			var id = $(this).attr("id");
+ 			var text =dom.val();//选中的文本
+ 		    //alert(typeof(ival));
+ 			$.ajax({
+ 				url:"<%=path %>/textUpdate",
+ 				type:"POST",
+ 				dataType : "json",
+ 				contentType : "application/x-www-form-urlencoded; charset=utf-8",
+ 				data : {
+ 					id : id,
+ 					text : text
+ 				},
+ 				success:function(data){
+ 					if(data.code = "success"){
+ 						alert("保存成功");
+ 						//dom.val(data.text);
+ 					}else{
+ 						alert("保存失败");
+ 						//dom.val(data.text);
+ 					}
+ 				}
+ 				
+ 			}); 	 			
+ 		});
+ 		
+ 		$("button.topp3").click(function hhh(){
+ 			alert("hhh");
+ 			var dom = $(this).parent().prev().children();
+ 			var id = $(this).attr("id");
+ 			var text =dom.val();//选中的文本
+ 		    //alert(typeof(ival));
+ 			$.ajax({
+ 				url:"<%=path %>/nicknameUpdate",
+ 				type:"POST",
+ 				dataType : "json",
+ 				contentType : "application/x-www-form-urlencoded; charset=utf-8",
+ 				data : {
+ 					id : id,
+ 					text : text
+ 				},
+ 				success:function(data){
+ 					if(data.code = "success"){
+ 						alert("保存成功");
+ 						//dom.val(data.text);
+ 					}else{
+ 						alert("保存失败");
+ 						//dom.val(data.text);
+ 					}
+ 				}
+ 				
+ 			}); 	 			
+ 		});
+ 		$("button.topp2").click(function hhh(){
+ 			alert("hhh");
+ 			var dom = $(this).parent().prev().children();
+ 			var id = $(this).attr("id");
+ 			var val =dom.val();//选中的文本
+ 			var ival = parseInt(val);//如果变量val是字符类型的数则转换为int类型 如果不是则ival为NaN
+ 		    //alert(typeof(ival));
+ 		    if(!isNaN(ival)){
+ 	 			$.ajax({
+ 	 				url:"<%=path %>/ageUpdate",
+ 	 				type:"POST",
+ 	 				dataType : "json",
+ 	 				contentType : "application/x-www-form-urlencoded; charset=utf-8",
+ 	 				data : {
+ 	 					id : id,
+ 	 					text : val
+ 	 				},
+ 	 				success:function(data){
+ 	 					if(data.code = "success"){
+ 	 						alert("保存成功");
+ 	 						//dom.val(data.text);
+ 	 					}else{
+ 	 						alert("保存失败");
+ 	 						//dom.val(data.text);
+ 	 					}
+ 	 				}
+ 	 				
+ 	 			}); 		        
+ 		    } else{
+ 		        alert(val +"不是数字");
+ 		    }
+ 			
+ 		});
+ 		
  		$("button.toppp").click(function hhh(){
  			alert("hhh");
  			var dom = $(this).parent().prev().children();
  			var id = $(this).attr("id");
- 			var text = $('#sexSelect option:selected').text();//选中的文本
+ 			var text = dom.val();
 			alert(text);
  			
  			$.ajax({
@@ -166,6 +255,14 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 
             <c:forEach var="Q" items="${QuesUserAll}">
             	<tr>
+            		<td>
+            			<input type="text" name="text" id="text" value="${Q.nickname}" />
+            		</td>
+                 	<td style="padding: 10px;">
+                    	<button class="topp3" onclick="hhh(this)" id="${Q.id}">保存</button>
+                 	</td>
+            	</tr>
+            	<tr>
                  	<td><input type="text" name="text" id="text" value="${Q.school}" /></td>
                  	<td style="padding: 10px;">
                     	<button class="topp" onclick="top(this)" id="${Q.id}">保存</button>
@@ -188,6 +285,22 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 					</td>
 					<td style="padding: 10px;">
                     	<button class="toppp" onclick="hhh(this)" id="${Q.id}">保存</button>
+                 	</td>
+            	</tr>
+            	<tr>
+            		<td>
+            			<input  type = "text" name = "age" value = "${Q.age }"/>
+            		</td>
+                 	<td style="padding: 10px;">
+                    	<button class="topp2" onclick="hhh(this)" id="${Q.id}">保存</button>
+                 	</td>            		
+            	</tr>
+            	<tr>
+            		<td>
+            			<input type="text" name="text" id="text" value="${Q.text}" />
+            		</td>
+                 	<td style="padding: 10px;">
+                    	<button class="topp4" onclick="hhh(this)" id="${Q.id}">保存</button>
                  	</td>
             	</tr>
             </c:forEach>

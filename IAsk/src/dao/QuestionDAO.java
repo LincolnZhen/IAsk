@@ -90,11 +90,11 @@ public class QuestionDAO {
 		return questions;
 	}
 	
-	public ArrayList<QuestionBean> selectQuesOfUser(int uid) {
+	public ArrayList<QuestionBean> selectQuesOfUser(String uid) {
 		ArrayList<QuestionBean> questions = new ArrayList<QuestionBean>();
 		DBConn jdbc = DBConn.getInstance();
 		jdbc.startConn();
-		ResultSet rs = jdbc.query("select * from qiuwen_question natural join qiuwen_userques where u_id = "+ uid);
+		ResultSet rs = jdbc.query("select * from qiuwen_question natural join qiuwen_userques where u_id = '"+ uid+"'");
 		if(rs != null){
 			try{
 				while(rs.next()){

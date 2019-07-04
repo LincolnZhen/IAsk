@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 
 import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
@@ -11,15 +12,16 @@ import javax.servlet.http.HttpServletResponse;
 import dao.UserDAO;
 
 /**
- * Servlet implementation class SexUpdateServlet
+ * Servlet implementation class TextUpdateServlet
  */
-public class SexUpdateServlet extends HttpServlet {
+@WebServlet("/textUpdate")
+public class TextUpdateServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
     /**
      * @see HttpServlet#HttpServlet()
      */
-    public SexUpdateServlet() {
+    public TextUpdateServlet() {
         super();
         // TODO Auto-generated constructor stub
     }
@@ -29,7 +31,7 @@ public class SexUpdateServlet extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		doPost(request, response);
+		doPost(request,response);
 	}
 
 	/**
@@ -44,14 +46,8 @@ public class SexUpdateServlet extends HttpServlet {
 		String quesId = uid;
 		String responseText = "";
 	    UserDAO updateQ = new UserDAO();
-	    int sex;
 	    System.out.println("hhhhh");
-		if(text.equals("Female")) 
-			sex = 1;
-		else 
-			sex = -1;
-		System.out.println(sex);
-	    if(updateQ.updateSex(quesId,sex)){
+	    if(updateQ.updatetext(quesId,text)){
 	    	responseText = "{ \"code\" : \"success\" , "
 	    			+ "\"text\" : \""+text+"\" }";
 	    }else{
