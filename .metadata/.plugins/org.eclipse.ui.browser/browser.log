@@ -1,0 +1,121 @@
+
+7月 03, 2019 20:34:27.45 NEW SESSION
+7月 03, 2019 20:34:27.45 [756:7156:0703/203427.443:ERROR:external_registry_loader_win.cc(159)] File C:\Users\ZhenXi\AppData\Local\ht1hao\ht1haoapp\\extensions\extensionChrome.crx for key Software\Google\Chrome\Extensions\aeppgfljjlhcnnbddcccndljodpdkpdh does not exist or is not readable.
+7月 03, 2019 20:44:28.08 [756:4368:0703/204428.085:ERROR:socket_stream.cc(210)] Closing stream with result -100
+7月 03, 2019 20:59:30.15 [756:4368:0703/205930.150:ERROR:socket_stream.cc(210)] Closing stream with result -100
+7月 03, 2019 21:04:28.87 [756:4368:0703/210428.873:ERROR:ssl_client_socket_impl.cc(1050)] handshake failed; returned -1, SSL error code 1, net_error -100
+7月 03, 2019 21:09:30.15 [756:4368:0703/210930.153:ERROR:socket_stream.cc(210)] Closing stream with result -100
+7月 03, 2019 21:19:30.15 [756:4368:0703/211930.156:ERROR:socket_stream.cc(210)] Closing stream with result -100
+7月 03, 2019 21:29:30.15 [756:4368:0703/212930.159:ERROR:socket_stream.cc(210)] Closing stream with result -100
+7月 03, 2019 21:39:30.16 [756:4368:0703/213930.161:ERROR:socket_stream.cc(210)] Closing stream with result -100
+7月 03, 2019 21:49:30.16 [756:4368:0703/214930.162:ERROR:socket_stream.cc(210)] Closing stream with result -100
+7月 03, 2019 21:59:30.16 [756:4368:0703/215930.165:ERROR:socket_stream.cc(210)] Closing stream with result -100
+7月 03, 2019 22:09:30.16 [756:4368:0703/220930.168:ERROR:socket_stream.cc(210)] Closing stream with result -100
+
+7月 04, 2019 09:29:30.78 NEW SESSION
+7月 04, 2019 09:29:30.78 [10336:14196:0704/092930.780:ERROR:external_registry_loader_win.cc(159)] File C:\Users\ZhenXi\AppData\Local\ht1hao\ht1haoapp\\extensions\extensionChrome.crx for key Software\Google\Chrome\Extensions\aeppgfljjlhcnnbddcccndljodpdkpdh does not exist or is not readable.
+7月 04, 2019 09:39:31.34 [10336:8776:0704/093931.346:ERROR:socket_stream.cc(210)] Closing stream with result -100
+7月 04, 2019 09:49:31.35 [10336:8776:0704/094931.350:ERROR:socket_stream.cc(210)] Closing stream with result -100
+7月 04, 2019 09:54:57.23 [10336:8776:0704/095457.233:ERROR:socket_stream.cc(210)] Closing stream with result -100
+7月 04, 2019 10:04:57.23 [10336:8776:0704/100457.237:ERROR:socket_stream.cc(210)] Closing stream with result -100
+7月 04, 2019 10:08:47.95 [10336:8776:0704/100847.958:ERROR:socket_stream.cc(210)] Closing stream with result -100
+7月 04, 2019 10:08:59.53 [10336:8776:0704/100859.533:ERROR:socket_stream.cc(210)] Closing stream with result -100
+7月 04, 2019 10:19:27.41 [10336:8776:0704/101927.414:ERROR:socket_stream.cc(210)] Closing stream with result -100
+7月 04, 2019 10:29:27.43 [10336:8776:0704/102927.435:ERROR:socket_stream.cc(210)] Closing stream with result -100
+7月 04, 2019 10:39:27.44 [10336:8776:0704/103927.448:ERROR:socket_stream.cc(210)] Closing stream with result -100
+7月 04, 2019 10:46:44.71 [10336:8776:0704/104644.717:ERROR:ssl_client_socket_impl.cc(1050)] handshake failed; returned -1, SSL error code 1, net_error -100
+7月 04, 2019 10:46:44.71 [10336:8776:0704/104644.718:ERROR:ssl_client_socket_impl.cc(1050)] handshake failed; returned -1, SSL error code 1, net_error -100
+7月 04, 2019 10:46:44.71 [10336:8776:0704/104644.718:ERROR:socket_stream.cc(210)] Closing stream with result -100
+7月 04, 2019 10:46:56.14 [10336:8776:0704/104656.149:ERROR:socket_stream.cc(210)] Closing stream with result -100
+7月 04, 2019 10:47:19.73 [10336:8776:0704/104719.729:ERROR:ssl_client_socket_impl.cc(1050)] handshake failed; returned -1, SSL error code 1, net_error -100
+7月 04, 2019 10:47:55.86 [10336:8776:0704/104755.866:ERROR:connection_factory_impl.cc(396)] Failed to connect to MCS endpoint with error -7
+7月 04, 2019 10:48:54.45 [10336:8776:0704/104854.452:ERROR:ssl_client_socket_impl.cc(1050)] handshake failed; returned -1, SSL error code 1, net_error -100
+7月 04, 2019 10:48:54.45 [10336:8776:0704/104854.453:ERROR:connection_factory_impl.cc(396)] Failed to connect to MCS endpoint with error -100
+7月 04, 2019 11:00:22.99 [10336:8776:0704/110022.993:ERROR:socket_stream.cc(210)] Closing stream with result -100
+7月 04, 2019 11:10:22.99 [10336:8776:0704/111022.997:ERROR:socket_stream.cc(210)] Closing stream with result -100
+7月 04, 2019 11:20:23.00 [10336:8776:0704/112023.002:ERROR:socket_stream.cc(210)] Closing stream with result -100
+7月 04, 2019 11:30:23.01 [10336:8776:0704/113023.013:ERROR:socket_stream.cc(210)] Closing stream with result -100
+7月 04, 2019 11:40:24.01 [10336:8776:0704/114024.016:ERROR:socket_stream.cc(210)] Closing stream with result -100
+7月 04, 2019 11:50:24.03 [10336:8776:0704/115024.029:ERROR:socket_stream.cc(210)] Closing stream with result -100
+7月 04, 2019 11:54:30.39 [10336:8776:0704/115430.391:ERROR:socket_stream.cc(210)] Closing stream with result -100
+7月 04, 2019 11:54:43.91 [10336:8776:0704/115443.916:ERROR:socket_stream.cc(210)] Closing stream with result -100
+
+7月 07, 2019 13:27:03.94 NEW SESSION
+7月 07, 2019 13:27:03.94 [1556:14208:0707/132703.939:ERROR:external_registry_loader_win.cc(159)] File C:\Users\ZhenXi\AppData\Local\ht1hao\ht1haoapp\\extensions\extensionChrome.crx for key Software\Google\Chrome\Extensions\aeppgfljjlhcnnbddcccndljodpdkpdh does not exist or is not readable.
+7月 07, 2019 13:29:42.29 [1556:16612:0707/132942.290:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:29:43.56 [1556:16612:0707/132943.566:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:29:45.02 [1556:16612:0707/132945.023:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:29:46.52 [1556:16612:0707/132946.527:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:29:48.80 [1556:16612:0707/132948.803:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:29:49.84 [1556:16612:0707/132949.849:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:29:51.10 [1556:16612:0707/132951.109:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:29:52.46 [1556:16612:0707/132952.461:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:29:53.63 [1556:16612:0707/132953.635:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:29:57.43 [1556:16612:0707/132957.432:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:29:58.73 [1556:16612:0707/132958.732:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:32:04.69 [1556:16612:0707/133204.698:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:32:05.88 [1556:16612:0707/133205.883:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:32:06.83 [1556:16612:0707/133206.831:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:32:08.79 [1556:16612:0707/133208.791:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:37:04.64 [1556:4624:0707/133704.641:ERROR:socket_stream.cc(210)] Closing stream with result -100
+7月 07, 2019 13:38:56.83 [1556:16612:0707/133856.835:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:38:57.84 [1556:16612:0707/133857.840:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:38:59.08 [1556:16612:0707/133859.080:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:39:00.44 [1556:16612:0707/133900.449:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:39:01.71 [1556:16612:0707/133901.710:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:39:02.88 [1556:16612:0707/133902.884:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:39:04.18 [1556:16612:0707/133904.179:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:39:06.22 [1556:16612:0707/133906.224:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:39:35.96 [1556:16612:0707/133935.962:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:39:44.72 [1556:16612:0707/133944.726:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:39:47.33 [1556:16612:0707/133947.334:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:39:49.70 [1556:16612:0707/133949.705:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:39:53.30 [1556:16612:0707/133953.301:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:39:54.33 [1556:16612:0707/133954.334:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:39:55.56 [1556:16612:0707/133955.565:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:39:56.59 [1556:16612:0707/133956.593:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:39:59.23 [1556:16612:0707/133959.236:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:40:00.29 [1556:16612:0707/134000.293:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:40:05.22 [1556:16612:0707/134005.223:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:43:02.73 [1556:16612:0707/134302.738:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:43:04.12 [1556:16612:0707/134304.126:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:43:05.90 [1556:16612:0707/134305.904:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:43:07.94 [1556:16612:0707/134307.940:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:43:44.44 [1556:16612:0707/134344.446:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:43:59.94 [1556:16612:0707/134359.942:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:44:02.51 [1556:16612:0707/134402.511:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:44:03.53 [1556:16612:0707/134403.533:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:44:14.94 [1556:16612:0707/134414.940:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:44:15.95 [1556:16612:0707/134415.958:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:44:17.11 [1556:16612:0707/134417.114:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:44:18.21 [1556:16612:0707/134418.217:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:44:21.30 [1556:16612:0707/134421.303:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:47:04.45 [1556:16612:0707/134704.453:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:47:04.64 [1556:4624:0707/134704.643:ERROR:socket_stream.cc(210)] Closing stream with result -100
+7月 07, 2019 13:47:14.97 [1556:16612:0707/134714.970:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:47:16.65 [1556:16612:0707/134716.653:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:47:17.83 [1556:16612:0707/134717.838:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:47:19.04 [1556:16612:0707/134719.040:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:47:20.23 [1556:16612:0707/134720.234:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:47:21.37 [1556:16612:0707/134721.370:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:47:22.49 [1556:16612:0707/134722.497:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:47:25.93 [1556:16612:0707/134725.935:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:47:31.35 [1556:16612:0707/134731.352:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:47:59.59 [1556:16612:0707/134759.594:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:48:19.40 [1556:16612:0707/134819.401:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:48:20.50 [1556:16612:0707/134820.508:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:48:23.63 [1556:16612:0707/134823.631:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:49:16.62 [1556:16612:0707/134916.625:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:53:39.14 [1556:16612:0707/135339.149:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:53:41.01 [1556:16612:0707/135341.018:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:53:42.43 [1556:16612:0707/135342.431:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:53:43.84 [1556:16612:0707/135343.846:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:53:44.99 [1556:16612:0707/135344.992:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:53:46.15 [1556:16612:0707/135346.152:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:53:48.08 [1556:16612:0707/135348.081:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:53:49.22 [1556:16612:0707/135349.223:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:53:50.72 [1556:16612:0707/135350.724:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:53:51.89 [1556:16612:0707/135351.899:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:53:54.49 [1556:16612:0707/135354.497:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s
+7月 07, 2019 13:57:04.64 [1556:4624:0707/135704.645:ERROR:socket_stream.cc(210)] Closing stream with result -100
+7月 07, 2019 13:58:20.91 [1556:16612:0707/135820.917:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 0.545 s for first_image_paint 0.544 s

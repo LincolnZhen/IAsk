@@ -39,14 +39,14 @@ public class AgeUpdateServlet extends HttpServlet {
 	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		System.out.println("hhhh");
+		//System.out.println("hhhh");
 		String uid = request.getParameter("id");
 		int text = Integer.valueOf(request.getParameter("text"));
 		System.out.println("Update"+text);
 		String quesId = uid;
 		String responseText = "";
 	    UserDAO updateQ = new UserDAO();
-	    System.out.println("hhhhh");
+	    //System.out.println("hhhhh");
 	    if(updateQ.updateAge(quesId,text)){
 	    	responseText = "{ \"code\" : \"success\" , "
 	    			+ "\"text\" : \""+text+"\" }";

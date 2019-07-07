@@ -37,7 +37,7 @@ public class SexUpdateServlet extends HttpServlet {
 	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		System.out.println("hhhh");
+		//System.out.println("hhhh");
 		String uid = request.getParameter("id");
 		String text = request.getParameter("text");
 		System.out.println("Update"+text);
@@ -45,7 +45,7 @@ public class SexUpdateServlet extends HttpServlet {
 		String responseText = "";
 	    UserDAO updateQ = new UserDAO();
 	    int sex;
-	    System.out.println("hhhhh");
+	    //System.out.println("hhhhh");
 		if(text.equals("Female")) 
 			sex = 1;
 		else 
